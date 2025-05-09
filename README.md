@@ -1,7 +1,3 @@
-# Project: Smart Information System - Customer Spending Predictions 
-
----
-
 ## Overview
 
 This project focuses on understanding and preparing customer data. By analyzing consumer behavior, demographics, and spending patterns, the goal is to identify distinct customer groupings that can inform targeted marketing strategies.
